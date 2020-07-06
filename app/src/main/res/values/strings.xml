@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GrabNews</string>
+    <string name="detailed_view_name">News Detail</string>
+    <string name="url_key">url</string>
+</resources>

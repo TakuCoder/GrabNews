@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">#00b140</item>
+        <item name="colorPrimaryDark">#549C57</item>
+        <item name="colorAccent">#0086D4</item>
+        <item name="colorPrimaryVariant">#00A595</item>
+        <item name="colorSecondary">#00796B</item>
+        <item name="colorSurface">#272727</item>
+        <item name="colorError">#B2002A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorOnError">#FFFBFA</item>
+        <item name="colorOnBackground">#442B2D</item>
+
+    </style>
+
+</resources>
